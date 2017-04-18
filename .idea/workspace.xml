@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="148ecc88-5d99-4e7a-9ddf-bfc089733be5" name="Default" comment="" />
+    <list default="true" id="148ecc88-5d99-4e7a-9ddf-bfc089733be5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="folhasertaneja.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,20 +23,10 @@
     <favorites_list name="folhasertaneja" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-              <folding>
-                <element signature="e#6#488#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -60,7 +52,7 @@
     <option name="width" value="1280" />
     <option name="height" value="707" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -92,6 +84,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="folhasertaneja" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folhasertaneja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folhasertaneja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -524,12 +526,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492517636867</updated>
-      <workItem from="1492517638405" duration="2808000" />
+      <workItem from="1492517638405" duration="3695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2808000" />
+    <option name="totallyTimeSpent" value="3695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="707" extended-state="6" />
@@ -545,8 +547,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31744748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -555,7 +558,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -592,6 +594,148 @@
           <folding>
             <element signature="e#6#488#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/upgrade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="258" column="125" selection-start-line="258" selection-start-column="125" selection-end-line="258" selection-end-column="125" />
+          <folding>
+            <marker date="1479691352000" expanded="true" signature="4327:4398" ph="SELECT cat_I... $" />
+            <marker date="1479691352000" expanded="true" signature="11006:11071" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="11147:11212" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="15776:15852" ph="SELECT blog_... $" />
+            <marker date="1479691352000" expanded="true" signature="15876:15975" ph="UPDATE ${{$w... " />
+            <marker date="1479691352000" expanded="true" signature="16005:16140" ph="INSERT INTO $... " />
+            <marker date="1479691352000" expanded="true" signature="19303:19374" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="19541:19593" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="19669:19717" ph="SELECT cat_I... ${$wpdb-&gt;categories}" />
+            <marker date="1479691352000" expanded="true" signature="20007:20172" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="20348:20377" ph="SELECT DISTI... ${$wpdb-&gt;post2cat}" />
+            <marker date="1479691352000" expanded="true" signature="20662:20732" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="20887:20956" ph="SELECT * FRO... ${$wpdb-&gt;post2cat}" />
+            <marker date="1479691352000" expanded="true" signature="22010:22055" ph="SELECT ID, u... ${$wpdb-&gt;users}" />
+            <marker date="1479691352000" expanded="true" signature="22322:22348" ph="SELECT ID, u... ${$wpdb-&gt;users}" />
+            <marker date="1479691352000" expanded="true" signature="23400:23431" ph="SELECT MAX(p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="23683:23790" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="23810:23859" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="23879:24039" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="24059:24175" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="24195:24310" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="24571:24680" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="25221:25277" ph="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1479691352000" expanded="true" signature="25665:25714" ph="SELECT link_... ${$wpdb-&gt;links}" />
+            <marker date="1479691352000" expanded="true" signature="26367:26421" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="26440:26493" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="26512:26566" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="26585:26646" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="27165:27255" ph="SELECT optio... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="27440:27508" ph="SELECT optio... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="27622:27679" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="28021:28035" ph="SELECT * FRO... ${$wpdb-&gt;users}" />
+            <marker date="1479691352000" expanded="true" signature="30429:30459" ph="ALTER TABLE ${$wpdb-&gt;users}... " />
+            <marker date="1479691352000" expanded="true" signature="30574:30686" ph="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1479691352000" expanded="true" signature="31128:31195" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="31936:31964" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="32296:32366" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="32613:32716" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="32752:32818" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+            <marker date="1479691352000" expanded="true" signature="33421:33468" ph="SELECT * FRO... ${$wpdb-&gt;categories}" />
+            <marker date="1479691352000" expanded="true" signature="33861:33921" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1479691352000" expanded="true" signature="34124:34169" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1479691352000" expanded="true" signature="34305:34365" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+            <marker date="1479691352000" expanded="true" signature="34407:34465" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="34531:34615" ph="INSERT INTO ${$wpdb-&gt;terms}... " />
+            <marker date="1479691352000" expanded="true" signature="34823:34932" ph="INSERT INTO ${$wpdb-&gt;term_taxonomy}... " />
+            <marker date="1479691352000" expanded="true" signature="35200:35309" ph="INSERT INTO ${$wpdb-&gt;term_taxonomy}... " />
+            <marker date="1479691352000" expanded="true" signature="36083:36148" ph="SELECT ${$se... ${$wpdb-&gt;post2cat}" />
+            <marker date="1479691352000" expanded="true" signature="36904:36968" ph="SELECT cat_i... ${$wpdb-&gt;prefix}" />
+            <marker date="1479691352000" expanded="true" signature="37297:37357" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1479691352000" expanded="true" signature="37945:37980" ph="SELECT link_... ${$wpdb-&gt;links}" />
+            <marker date="1479691352000" expanded="true" signature="38592:38670" ph="SELECT link_... ${$wpdb-&gt;link2cat}" />
+            <marker date="1479691352000" expanded="true" signature="39102:39158" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="39223:39262" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1479691352000" expanded="true" signature="39445:39642" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1479691352000" expanded="true" signature="39724:39798" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1479691352000" expanded="true" signature="40380:40412" ph="ALTER TABLE ${$wpdb-&gt;options}... " />
+            <marker date="1479691352000" expanded="true" signature="40680:40732" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="40751:40801" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="40820:40870" ph="DROP TABLE I... " />
+            <marker date="1479691352000" expanded="true" signature="41147:41227" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="41688:41736" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="42417:42506" ph="UPDATE ${$wp... " />
+            <marker date="1479691352000" expanded="true" signature="42902:42990" ph="SELECT optio... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="44394:44826" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="45773:45864" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="47804:47850" ph="ALTER TABLE ${$wpdb-&gt;options}... " />
+            <marker date="1479691352000" expanded="true" signature="47964:48019" ph="ALTER TABLE ${$wpdb-&gt;comments}... " />
+            <marker date="1479691352000" expanded="true" signature="48146:48209" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="48292:48367" ph="SELECT autol... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="48823:48863" ph="SELECT link_... ${$wpdb-&gt;links}" />
+            <marker date="1479691352000" expanded="true" signature="49344:49404" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="53146:53361" ph="SELECT `comm... ${{$wpdb-&gt;comments}}" />
+            <marker date="1479691352000" expanded="true" signature="54140:54200" ph="ALTER TABLE $... " />
+            <marker date="1479691352000" expanded="true" signature="54937:55009" ph="DELETE FROM " />
+            <marker date="1479691352000" expanded="true" signature="57454:57538" ph="SELECT meta_... $" />
+            <marker date="1479691352000" expanded="true" signature="59438:59520" ph="ALTER TABLE ${$wpdb-&gt;usermeta}... " />
+            <marker date="1479691352000" expanded="true" signature="59543:59624" ph="ALTER TABLE ${$wpdb-&gt;site}... " />
+            <marker date="1479691352000" expanded="true" signature="59647:59729" ph="ALTER TABLE ${$wpdb-&gt;sitemeta}... " />
+            <marker date="1479691352000" expanded="true" signature="59752:59846" ph="ALTER TABLE ${$wpdb-&gt;signups}... " />
+            <marker date="1479691352000" expanded="true" signature="60600:60694" ph="ALTER TABLE ${$wpdb-&gt;signups}... " />
+            <marker date="1479691352000" expanded="true" signature="62368:62408" ph="ALTER TABLE `${$table}`... " />
+            <marker date="1479691352000" expanded="true" signature="62526:62571" ph="ALTER TABLE `${$table}`... " />
+            <marker date="1479691352000" expanded="true" signature="62961:63004" ph="ALTER TABLE `${$table}`... " />
+            <marker date="1479691352000" expanded="true" signature="64934:65012" ph="ALTER TABLE ${$table}... " />
+            <marker date="1479691352000" expanded="true" signature="65271:65309" ph="SELECT optio... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="66168:66230" ph="SELECT optio... ${$wpdb-&gt;options}" />
+            <marker date="1479691352000" expanded="true" signature="76936:76994" ph="ALTER TABLE $... " />
+            <marker date="1479691352000" expanded="true" signature="77506:77593" ph="ALTER TABLE $... " />
+            <marker date="1479691352000" expanded="true" signature="78174:78206" ph="ALTER TABLE $... " />
+            <marker date="1479691352000" expanded="true" signature="80778:80803" ph="ALTER TABLE $... " />
+            <marker date="1479691352000" expanded="true" signature="89331:89371" ph="SELECT link_... ${$wpdb-&gt;links}" />
+            <marker date="1479691352000" expanded="true" signature="90018:90089" ph="ALTER TABLE ${$wpdb-&gt;options}... " />
+            <marker date="1479691352000" expanded="true" signature="90178:90227" ph="ALTER TABLE ${$wpdb-&gt;options}... " />
+            <marker date="1479691352000" expanded="true" signature="90493:90586" ph="ALTER TABLE ${$wpdb-&gt;signups}... " />
+            <marker date="1479691352000" expanded="true" signature="90609:90653" ph="ALTER TABLE ${$wpdb-&gt;signups}... " />
+            <marker date="1479691352000" expanded="true" signature="90768:90856" ph="ALTER TABLE ${$wpdb-&gt;blogs}... " />
+            <marker date="1479691352000" expanded="true" signature="90879:90965" ph="ALTER TABLE ${$wpdb-&gt;blogs}... " />
+            <marker date="1479691352000" expanded="true" signature="91137:91219" ph="ALTER TABLE ${$wpdb-&gt;usermeta}... " />
+            <marker date="1479691352000" expanded="true" signature="91245:91312" ph="ALTER TABLE ${$wpdb-&gt;terms}... " />
+            <marker date="1479691352000" expanded="true" signature="91334:91401" ph="ALTER TABLE ${$wpdb-&gt;terms}... " />
+            <marker date="1479691352000" expanded="true" signature="91423:91508" ph="ALTER TABLE ${$wpdb-&gt;commentmeta}... " />
+            <marker date="1479691352000" expanded="true" signature="91530:91612" ph="ALTER TABLE ${$wpdb-&gt;postmeta}... " />
+            <marker date="1479691352000" expanded="true" signature="91634:91716" ph="ALTER TABLE ${$wpdb-&gt;posts}... " />
+            <marker date="1479691352000" expanded="true" signature="92080:92162" ph="ALTER TABLE ${$wpdb-&gt;termmeta}... " />
+            <marker date="1479691352000" expanded="true" signature="92481:92802" ph="CREATE TABLE... ${$wpdb-&gt;sitecategories}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hueman/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1491532276000" expanded="true" signature="865:902" ph="..." />
+            <marker date="1491532276000" expanded="true" signature="920:959" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hueman/tmpl/index-tmpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hueman/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
